@@ -73,6 +73,4 @@ while True:
     elif opcion==4:
         break
     else:
-        print("Opcion invalida") 
-
-        print("subio")    
+        print("Opcion invalida")
